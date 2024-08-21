@@ -1,0 +1,19 @@
+package ex04;
+
+public class StudentMain {
+
+	public static void main(String[] args) {
+		Student s1 = new Student();
+		s1.info();
+		
+		Student s2 = new Student("차은우", 30, "000-2222-1111");
+		s2.info();
+
+		Student s3 = new Student("홍길동", 19, "000-2233-1311");
+		s3.info();
+		
+		
+
+	}
+
+}

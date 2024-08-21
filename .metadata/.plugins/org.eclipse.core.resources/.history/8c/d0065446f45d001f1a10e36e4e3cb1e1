@@ -1,0 +1,29 @@
+package ex03;
+
+public class Switch예제01 {
+
+	public static void main(String[] args) {
+
+		int n = (int)(Math.random()*5); // 0~4
+		
+		switch(n) {
+		case 0:
+			System.out.println("0000000000");
+			break;
+		case 1:
+			System.out.println("111");
+			break;
+		case 2:
+			System.out.println("222");
+			break;
+		case 3:
+			System.out.println("333");
+			break;
+		case 4:
+			System.out.println("444");
+			break;
+
+		}
+	}
+
+}

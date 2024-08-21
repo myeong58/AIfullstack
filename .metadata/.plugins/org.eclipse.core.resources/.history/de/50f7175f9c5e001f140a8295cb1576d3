@@ -1,0 +1,25 @@
+package ex01;
+
+import java.util.Scanner;
+
+public class StringEx01 {
+
+	public static void main(String[] args) {
+
+		String str1 = "korea";
+		String str2 = new String("801020-2079145");
+		
+		Scanner sc = new Scanner(System.in);
+		
+		char ch = str1.charAt(4);
+		System.out.println(ch);
+		
+		char ch2 = str2.charAt(7);
+		String s = (ch == '1') ? "남" : "여";
+		
+		System.out.println(s);
+
+		
+	}
+
+}
