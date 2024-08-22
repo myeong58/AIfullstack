@@ -8,7 +8,13 @@ public class ArrayEx02 {
 		
 		int[] newIntArray = new int[5];
 		
+		System.out.println(newIntArray);
+
+		
 		newIntArray = oldIntArray;
+		
+		System.out.println(newIntArray);
+		
 		
 		oldIntArray[2]=300;
 		for(int i=0; i<oldIntArray.length; i++)

@@ -15,8 +15,8 @@ public class StudentMain {
 		System.out.println(Student.job);
 		
 		Student s2 = new Student();
-		
-		s2.change("접근가능");//권장 x --> static인지 아닌지 헷갈릴 수 있음
+		 
+		s2.change("접근가능");//권장 x --> static인지 아닌지 헷갈릴 있음
 
 		
 		
