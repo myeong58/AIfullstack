@@ -10,4 +10,7 @@
     <fullyQualifiedTypeName name="ex07.BookClass"/>
     <fullyQualifiedTypeName name="ex02.Student"/>
     <fullyQualifiedTypeName name="ex06.Student"/>
+    <fullyQualifiedTypeName name="ex01.Account"/>
+    <fullyQualifiedTypeName name="ex06.MathArrayUtils"/>
+    <fullyQualifiedTypeName name="ex07.Singleton"/>
 </qualifiedTypeNameHistroy>

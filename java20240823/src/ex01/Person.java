@@ -1,0 +1,23 @@
+package ex01;
+
+public class Person {
+	String name;
+	int age;
+	
+	public Person() {}
+	
+	public Person(String name, int age) {
+		this.name = name;
+		this.age = age;
+	}
+	
+	//final --> 메소드 재정의 허용하지 않겠다.
+	//public final void introduce() {
+	public void intruduce() {
+		System.out.printf("안녕하세요. 제 이름은 %s이고, 나이는 %d살 입니다.\n", name, age);
+	}
+	
+	public void walk() {
+		System.out.println(name + "이(가) 걷고 있습니다.");
+	}
+}
