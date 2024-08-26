@@ -2,7 +2,6 @@
 <qualifiedTypeNameHistroy>
     <fullyQualifiedTypeName name="java.util.Random"/>
     <fullyQualifiedTypeName name="java.lang.Appendable"/>
-    <fullyQualifiedTypeName name="java.lang.String"/>
     <fullyQualifiedTypeName name="java.lang.System"/>
     <fullyQualifiedTypeName name="java.lang.StringIndexOutOfBoundsException"/>
     <fullyQualifiedTypeName name="java.util.Scanner"/>
@@ -13,4 +12,18 @@
     <fullyQualifiedTypeName name="ex01.Account"/>
     <fullyQualifiedTypeName name="ex06.MathArrayUtils"/>
     <fullyQualifiedTypeName name="ex07.Singleton"/>
+    <fullyQualifiedTypeName name="ex01.Person"/>
+    <fullyQualifiedTypeName name="ex01.Student"/>
+    <fullyQualifiedTypeName name="ex03.PartTimeStudent"/>
+    <fullyQualifiedTypeName name="ex04.Student"/>
+    <fullyQualifiedTypeName name="ex04.PartTimeStudent"/>
+    <fullyQualifiedTypeName name="java.lang.String"/>
+    <fullyQualifiedTypeName name="ex05.Person"/>
+    <fullyQualifiedTypeName name="ex05.PartTimeStudent"/>
+    <fullyQualifiedTypeName name="ex05.Student"/>
+    <fullyQualifiedTypeName name="ex05.Car"/>
+    <fullyQualifiedTypeName name="java.lang.Thread"/>
+    <fullyQualifiedTypeName name="ex05.Vehicle"/>
+    <fullyQualifiedTypeName name="java.lang.Override"/>
+    <fullyQualifiedTypeName name="ex05.Truck"/>
 </qualifiedTypeNameHistroy>
