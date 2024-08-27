@@ -24,6 +24,21 @@
     <fullyQualifiedTypeName name="ex05.Car"/>
     <fullyQualifiedTypeName name="java.lang.Thread"/>
     <fullyQualifiedTypeName name="ex05.Vehicle"/>
-    <fullyQualifiedTypeName name="java.lang.Override"/>
     <fullyQualifiedTypeName name="ex05.Truck"/>
+    <fullyQualifiedTypeName name="ex01.Animal"/>
+    <fullyQualifiedTypeName name="ex03.Animal"/>
+    <fullyQualifiedTypeName name="ex04.Dog"/>
+    <fullyQualifiedTypeName name="ex04.Animal"/>
+    <fullyQualifiedTypeName name="ex04.진도개"/>
+    <fullyQualifiedTypeName name="ex06.Animal"/>
+    <fullyQualifiedTypeName name="ex07.ClassA"/>
+    <fullyQualifiedTypeName name="java.lang.Override"/>
+    <fullyQualifiedTypeName name="java.lang.IllegalAccessError"/>
+    <fullyQualifiedTypeName name="예제.Item"/>
+    <fullyQualifiedTypeName name="ex01.LgTV"/>
+    <fullyQualifiedTypeName name="ex02.SamsungTV"/>
+    <fullyQualifiedTypeName name="연습문제.Payment"/>
+    <fullyQualifiedTypeName name="연습문제.CreditCardPayment"/>
+    <fullyQualifiedTypeName name="연습문제.PayPalPayment"/>
+    <fullyQualifiedTypeName name="연습문제.CashPayment"/>
 </qualifiedTypeNameHistroy>
