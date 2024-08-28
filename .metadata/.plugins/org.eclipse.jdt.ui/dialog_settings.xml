@@ -4,6 +4,7 @@
 	<item key="org.eclipse.jdt.ui.last.selected.execution.enviroment" value="JavaSE-17"/>
 	<item key="org.eclipse.jdt.ui.last.selected.create.moduleinfo.comments" value="false"/>
 	<item key="org.eclipse.jdt.ui.last.selected.create.moduleinfo" value="false"/>
+	<item key="delegateUpdating" value="false"/>
 	<section name="org.eclipse.jdt.internal.ui.packageview.PackageExplorerPart">
 		<item key="group_libraries" value="true"/>
 		<item key="layout" value="2"/>
@@ -51,8 +52,8 @@
 		<item key="renameSubpackages" value="false"/>
 	</section>
 	<section name="NewPackageCreationWizard.dialogBounds">
-		<item key="DIALOG_X_ORIGIN" value="683"/>
-		<item key="DIALOG_Y_ORIGIN" value="239"/>
+		<item key="DIALOG_X_ORIGIN" value="385"/>
+		<item key="DIALOG_Y_ORIGIN" value="305"/>
 		<item key="DIALOG_WIDTH" value="525"/>
 		<item key="DIALOG_HEIGHT" value="500"/>
 		<item key="DIALOG_FONT_NAME" value="1|맑은 고딕|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|맑은 고딕"/>
@@ -73,8 +74,8 @@
 		<item key="RemoveFinal" value="false"/>
 	</section>
 	<section name="DialogBounds_GetterSetterTreeSelectionDialog">
-		<item key="DIALOG_X_ORIGIN" value="511"/>
-		<item key="DIALOG_Y_ORIGIN" value="101"/>
+		<item key="DIALOG_X_ORIGIN" value="1148"/>
+		<item key="DIALOG_Y_ORIGIN" value="95"/>
 		<item key="DIALOG_WIDTH" value="540"/>
 		<item key="DIALOG_HEIGHT" value="696"/>
 		<item key="DIALOG_FONT_NAME" value="1|맑은 고딕|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|맑은 고딕"/>
@@ -110,6 +111,13 @@
 		<item key="DIALOG_Y_ORIGIN" value="181"/>
 		<item key="DIALOG_WIDTH" value="539"/>
 		<item key="DIALOG_HEIGHT" value="513"/>
+		<item key="DIALOG_FONT_NAME" value="1|맑은 고딕|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|맑은 고딕"/>
+	</section>
+	<section name="NewSourceFolderCreationWizard.dialogBounds">
+		<item key="DIALOG_X_ORIGIN" value="226"/>
+		<item key="DIALOG_Y_ORIGIN" value="239"/>
+		<item key="DIALOG_WIDTH" value="525"/>
+		<item key="DIALOG_HEIGHT" value="434"/>
 		<item key="DIALOG_FONT_NAME" value="1|맑은 고딕|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|맑은 고딕"/>
 	</section>
 </section>

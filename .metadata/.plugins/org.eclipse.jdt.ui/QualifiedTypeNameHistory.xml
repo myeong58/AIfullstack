@@ -32,7 +32,6 @@
     <fullyQualifiedTypeName name="ex04.진도개"/>
     <fullyQualifiedTypeName name="ex06.Animal"/>
     <fullyQualifiedTypeName name="ex07.ClassA"/>
-    <fullyQualifiedTypeName name="java.lang.Override"/>
     <fullyQualifiedTypeName name="java.lang.IllegalAccessError"/>
     <fullyQualifiedTypeName name="예제.Item"/>
     <fullyQualifiedTypeName name="ex01.LgTV"/>
@@ -41,4 +40,17 @@
     <fullyQualifiedTypeName name="연습문제.CreditCardPayment"/>
     <fullyQualifiedTypeName name="연습문제.PayPalPayment"/>
     <fullyQualifiedTypeName name="연습문제.CashPayment"/>
+    <fullyQualifiedTypeName name="java.lang.Readable"/>
+    <fullyQualifiedTypeName name="ex02.Remocon"/>
+    <fullyQualifiedTypeName name="java.lang.Object"/>
+    <fullyQualifiedTypeName name="ex02.DataAccessObject"/>
+    <fullyQualifiedTypeName name="ex02.Soundable"/>
+    <fullyQualifiedTypeName name="mobile.Mobile"/>
+    <fullyQualifiedTypeName name="mobile.Ltab"/>
+    <fullyQualifiedTypeName name="java.lang.Override"/>
+    <fullyQualifiedTypeName name="emp.Bounus"/>
+    <fullyQualifiedTypeName name="javax.swing.plaf.SliderUI"/>
+    <fullyQualifiedTypeName name="emp.Sales"/>
+    <fullyQualifiedTypeName name="emp.Secretary"/>
+    <fullyQualifiedTypeName name="emp.Employee"/>
 </qualifiedTypeNameHistroy>
