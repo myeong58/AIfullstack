@@ -1,14 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="java.util.Random"/>
-    <fullyQualifiedTypeName name="java.lang.Appendable"/>
-    <fullyQualifiedTypeName name="java.lang.System"/>
-    <fullyQualifiedTypeName name="java.lang.StringIndexOutOfBoundsException"/>
-    <fullyQualifiedTypeName name="java.util.Scanner"/>
-    <fullyQualifiedTypeName name="ex07.BankClass"/>
-    <fullyQualifiedTypeName name="ex07.BookClass"/>
-    <fullyQualifiedTypeName name="ex02.Student"/>
-    <fullyQualifiedTypeName name="ex06.Student"/>
     <fullyQualifiedTypeName name="ex01.Account"/>
     <fullyQualifiedTypeName name="ex06.MathArrayUtils"/>
     <fullyQualifiedTypeName name="ex07.Singleton"/>
@@ -40,17 +31,33 @@
     <fullyQualifiedTypeName name="연습문제.CreditCardPayment"/>
     <fullyQualifiedTypeName name="연습문제.PayPalPayment"/>
     <fullyQualifiedTypeName name="연습문제.CashPayment"/>
-    <fullyQualifiedTypeName name="java.lang.Readable"/>
     <fullyQualifiedTypeName name="ex02.Remocon"/>
-    <fullyQualifiedTypeName name="java.lang.Object"/>
     <fullyQualifiedTypeName name="ex02.DataAccessObject"/>
     <fullyQualifiedTypeName name="ex02.Soundable"/>
     <fullyQualifiedTypeName name="mobile.Mobile"/>
     <fullyQualifiedTypeName name="mobile.Ltab"/>
-    <fullyQualifiedTypeName name="java.lang.Override"/>
     <fullyQualifiedTypeName name="emp.Bounus"/>
     <fullyQualifiedTypeName name="javax.swing.plaf.SliderUI"/>
     <fullyQualifiedTypeName name="emp.Sales"/>
     <fullyQualifiedTypeName name="emp.Secretary"/>
     <fullyQualifiedTypeName name="emp.Employee"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="java.lang.NullPointerException"/>
+    <fullyQualifiedTypeName name="java.lang.ArithmeticException"/>
+    <fullyQualifiedTypeName name="java.lang.Exception"/>
+    <fullyQualifiedTypeName name="java.lang.Override"/>
+    <fullyQualifiedTypeName name="java.lang.Readable"/>
+    <fullyQualifiedTypeName name="연습문제.Rentable"/>
+    <fullyQualifiedTypeName name="연습문제.SaleTV"/>
+    <fullyQualifiedTypeName name="연습문제.RentalTV"/>
+    <fullyQualifiedTypeName name="java.lang.Object"/>
+    <fullyQualifiedTypeName name="ex02.EqualMain"/>
+    <fullyQualifiedTypeName name="java.util.HashSet"/>
+    <fullyQualifiedTypeName name="java.lang.StringBuffer"/>
+    <fullyQualifiedTypeName name="java.lang.StringBuilder"/>
+    <fullyQualifiedTypeName name="java.util.StringTokenizer"/>
+    <fullyQualifiedTypeName name="work.Plane"/>
+    <fullyQualifiedTypeName name="work.Airplane"/>
+    <fullyQualifiedTypeName name="work.Cargoplane"/>
 </qualifiedTypeNameHistroy>
