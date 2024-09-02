@@ -1,15 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="ex01.Account"/>
-    <fullyQualifiedTypeName name="ex06.MathArrayUtils"/>
-    <fullyQualifiedTypeName name="ex07.Singleton"/>
-    <fullyQualifiedTypeName name="ex01.Person"/>
-    <fullyQualifiedTypeName name="ex01.Student"/>
-    <fullyQualifiedTypeName name="ex03.PartTimeStudent"/>
-    <fullyQualifiedTypeName name="ex04.Student"/>
-    <fullyQualifiedTypeName name="ex04.PartTimeStudent"/>
-    <fullyQualifiedTypeName name="java.lang.String"/>
-    <fullyQualifiedTypeName name="ex05.Person"/>
     <fullyQualifiedTypeName name="ex05.PartTimeStudent"/>
     <fullyQualifiedTypeName name="ex05.Student"/>
     <fullyQualifiedTypeName name="ex05.Car"/>
@@ -41,8 +31,6 @@
     <fullyQualifiedTypeName name="emp.Sales"/>
     <fullyQualifiedTypeName name="emp.Secretary"/>
     <fullyQualifiedTypeName name="emp.Employee"/>
-    <fullyQualifiedTypeName name="java.lang.System"/>
-    <fullyQualifiedTypeName name="java.util.Scanner"/>
     <fullyQualifiedTypeName name="java.lang.NullPointerException"/>
     <fullyQualifiedTypeName name="java.lang.ArithmeticException"/>
     <fullyQualifiedTypeName name="java.lang.Exception"/>
@@ -60,4 +48,16 @@
     <fullyQualifiedTypeName name="work.Plane"/>
     <fullyQualifiedTypeName name="work.Airplane"/>
     <fullyQualifiedTypeName name="work.Cargoplane"/>
+    <fullyQualifiedTypeName name="ex01.AppleBox"/>
+    <fullyQualifiedTypeName name="ex01.OrangeBox"/>
+    <fullyQualifiedTypeName name="ex01.Orange"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="ex04.Product"/>
+    <fullyQualifiedTypeName name="ex07.BoxFactory"/>
+    <fullyQualifiedTypeName name="ex09.BoxFactory"/>
+    <fullyQualifiedTypeName name="연습문제.Pair"/>
+    <fullyQualifiedTypeName name="java.lang.Integer"/>
+    <fullyQualifiedTypeName name="연습문제.ChildPair"/>
+    <fullyQualifiedTypeName name="java.nio.charset.IllegalCharsetNameException"/>
 </qualifiedTypeNameHistroy>
