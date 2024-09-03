@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="ex05.PartTimeStudent"/>
-    <fullyQualifiedTypeName name="ex05.Student"/>
-    <fullyQualifiedTypeName name="ex05.Car"/>
-    <fullyQualifiedTypeName name="java.lang.Thread"/>
-    <fullyQualifiedTypeName name="ex05.Vehicle"/>
     <fullyQualifiedTypeName name="ex05.Truck"/>
     <fullyQualifiedTypeName name="ex01.Animal"/>
     <fullyQualifiedTypeName name="ex03.Animal"/>
@@ -41,8 +36,6 @@
     <fullyQualifiedTypeName name="연습문제.RentalTV"/>
     <fullyQualifiedTypeName name="java.lang.Object"/>
     <fullyQualifiedTypeName name="ex02.EqualMain"/>
-    <fullyQualifiedTypeName name="java.util.HashSet"/>
-    <fullyQualifiedTypeName name="java.lang.StringBuffer"/>
     <fullyQualifiedTypeName name="java.lang.StringBuilder"/>
     <fullyQualifiedTypeName name="java.util.StringTokenizer"/>
     <fullyQualifiedTypeName name="work.Plane"/>
@@ -52,12 +45,19 @@
     <fullyQualifiedTypeName name="ex01.OrangeBox"/>
     <fullyQualifiedTypeName name="ex01.Orange"/>
     <fullyQualifiedTypeName name="java.lang.System"/>
-    <fullyQualifiedTypeName name="java.util.Scanner"/>
     <fullyQualifiedTypeName name="ex04.Product"/>
     <fullyQualifiedTypeName name="ex07.BoxFactory"/>
     <fullyQualifiedTypeName name="ex09.BoxFactory"/>
     <fullyQualifiedTypeName name="연습문제.Pair"/>
-    <fullyQualifiedTypeName name="java.lang.Integer"/>
     <fullyQualifiedTypeName name="연습문제.ChildPair"/>
     <fullyQualifiedTypeName name="java.nio.charset.IllegalCharsetNameException"/>
+    <fullyQualifiedTypeName name="java.lang.Integer"/>
+    <fullyQualifiedTypeName name="java.lang.StringBuffer"/>
+    <fullyQualifiedTypeName name="java.util.Random"/>
+    <fullyQualifiedTypeName name="java.util.HashSet"/>
+    <fullyQualifiedTypeName name="java.util.Iterator"/>
+    <fullyQualifiedTypeName name="java.util.HashMap"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="java.security.KeyStore.Entry"/>
+    <fullyQualifiedTypeName name="java.util.Set"/>
 </qualifiedTypeNameHistroy>

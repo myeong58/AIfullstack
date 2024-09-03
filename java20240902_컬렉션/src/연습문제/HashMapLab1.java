@@ -17,9 +17,9 @@ public class HashMapLab1 {
 			sc.nextLine();
 			
 			if(c.put(s,i) == null)
-				System.out.println("저장 되었습니다. ");
+				System.out.println("*저장 되었습니다.*");
 			else
-				System.out.println("나라명 " + s + "는 이미 저장되었습니다.");
+				System.out.println("*나라명 " + s + "는 이미 저장되었습니다.*");
 			
 		}
 		System.out.println("5개가 모두 입력되었습니다.");
