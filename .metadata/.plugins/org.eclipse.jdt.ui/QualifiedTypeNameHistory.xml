@@ -1,20 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="ex05.Truck"/>
-    <fullyQualifiedTypeName name="ex01.Animal"/>
-    <fullyQualifiedTypeName name="ex03.Animal"/>
-    <fullyQualifiedTypeName name="ex04.Dog"/>
-    <fullyQualifiedTypeName name="ex04.Animal"/>
-    <fullyQualifiedTypeName name="ex04.진도개"/>
-    <fullyQualifiedTypeName name="ex06.Animal"/>
-    <fullyQualifiedTypeName name="ex07.ClassA"/>
-    <fullyQualifiedTypeName name="java.lang.IllegalAccessError"/>
-    <fullyQualifiedTypeName name="예제.Item"/>
-    <fullyQualifiedTypeName name="ex01.LgTV"/>
-    <fullyQualifiedTypeName name="ex02.SamsungTV"/>
-    <fullyQualifiedTypeName name="연습문제.Payment"/>
-    <fullyQualifiedTypeName name="연습문제.CreditCardPayment"/>
-    <fullyQualifiedTypeName name="연습문제.PayPalPayment"/>
     <fullyQualifiedTypeName name="연습문제.CashPayment"/>
     <fullyQualifiedTypeName name="ex02.Remocon"/>
     <fullyQualifiedTypeName name="ex02.DataAccessObject"/>
@@ -51,13 +36,28 @@
     <fullyQualifiedTypeName name="연습문제.Pair"/>
     <fullyQualifiedTypeName name="연습문제.ChildPair"/>
     <fullyQualifiedTypeName name="java.nio.charset.IllegalCharsetNameException"/>
-    <fullyQualifiedTypeName name="java.lang.Integer"/>
     <fullyQualifiedTypeName name="java.lang.StringBuffer"/>
     <fullyQualifiedTypeName name="java.util.Random"/>
-    <fullyQualifiedTypeName name="java.util.HashSet"/>
     <fullyQualifiedTypeName name="java.util.Iterator"/>
     <fullyQualifiedTypeName name="java.util.HashMap"/>
     <fullyQualifiedTypeName name="java.util.Scanner"/>
     <fullyQualifiedTypeName name="java.security.KeyStore.Entry"/>
     <fullyQualifiedTypeName name="java.util.Set"/>
+    <fullyQualifiedTypeName name="java.util.HashSet"/>
+    <fullyQualifiedTypeName name="collection.Product"/>
+    <fullyQualifiedTypeName name="ex01.Printable"/>
+    <fullyQualifiedTypeName name="ex01.Printer"/>
+    <fullyQualifiedTypeName name="java.util.function.Supplier"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="ex03.LambdaPractice"/>
+    <fullyQualifiedTypeName name="java.util.function.Predicate"/>
+    <fullyQualifiedTypeName name="java.util.function.Consumer"/>
+    <fullyQualifiedTypeName name="java.lang.Integer"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="java.util.function.Function"/>
+    <fullyQualifiedTypeName name="java.lang.Runnable"/>
+    <fullyQualifiedTypeName name="ex02.Counter"/>
+    <fullyQualifiedTypeName name="thread.HelloThread"/>
+    <fullyQualifiedTypeName name="thread.HelloRunnable"/>
+    <fullyQualifiedTypeName name="java.lang.Thread"/>
 </qualifiedTypeNameHistroy>
