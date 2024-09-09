@@ -1,15 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="연습문제.CashPayment"/>
-    <fullyQualifiedTypeName name="ex02.Remocon"/>
-    <fullyQualifiedTypeName name="ex02.DataAccessObject"/>
-    <fullyQualifiedTypeName name="ex02.Soundable"/>
-    <fullyQualifiedTypeName name="mobile.Mobile"/>
-    <fullyQualifiedTypeName name="mobile.Ltab"/>
-    <fullyQualifiedTypeName name="emp.Bounus"/>
-    <fullyQualifiedTypeName name="javax.swing.plaf.SliderUI"/>
-    <fullyQualifiedTypeName name="emp.Sales"/>
-    <fullyQualifiedTypeName name="emp.Secretary"/>
     <fullyQualifiedTypeName name="emp.Employee"/>
     <fullyQualifiedTypeName name="java.lang.NullPointerException"/>
     <fullyQualifiedTypeName name="java.lang.ArithmeticException"/>
@@ -40,7 +30,6 @@
     <fullyQualifiedTypeName name="java.util.Random"/>
     <fullyQualifiedTypeName name="java.util.Iterator"/>
     <fullyQualifiedTypeName name="java.util.HashMap"/>
-    <fullyQualifiedTypeName name="java.util.Scanner"/>
     <fullyQualifiedTypeName name="java.security.KeyStore.Entry"/>
     <fullyQualifiedTypeName name="java.util.Set"/>
     <fullyQualifiedTypeName name="java.util.HashSet"/>
@@ -48,16 +37,27 @@
     <fullyQualifiedTypeName name="ex01.Printable"/>
     <fullyQualifiedTypeName name="ex01.Printer"/>
     <fullyQualifiedTypeName name="java.util.function.Supplier"/>
-    <fullyQualifiedTypeName name="java.util.List"/>
     <fullyQualifiedTypeName name="ex03.LambdaPractice"/>
     <fullyQualifiedTypeName name="java.util.function.Predicate"/>
     <fullyQualifiedTypeName name="java.util.function.Consumer"/>
     <fullyQualifiedTypeName name="java.lang.Integer"/>
-    <fullyQualifiedTypeName name="java.util.ArrayList"/>
     <fullyQualifiedTypeName name="java.util.function.Function"/>
     <fullyQualifiedTypeName name="java.lang.Runnable"/>
     <fullyQualifiedTypeName name="ex02.Counter"/>
     <fullyQualifiedTypeName name="thread.HelloThread"/>
     <fullyQualifiedTypeName name="thread.HelloRunnable"/>
     <fullyQualifiedTypeName name="java.lang.Thread"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="movie.AbstractMenu"/>
+    <fullyQualifiedTypeName name="java.awt.event.AdjustmentEvent"/>
+    <fullyQualifiedTypeName name="java.io.File"/>
+    <fullyQualifiedTypeName name="java.io.FileNotFoundException"/>
+    <fullyQualifiedTypeName name="movie.Movie"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="java.io.BufferedReader"/>
+    <fullyQualifiedTypeName name="java.io.FileReader"/>
+    <fullyQualifiedTypeName name="java.lang.InstantiationError"/>
+    <fullyQualifiedTypeName name="java.time.Instant"/>
+    <fullyQualifiedTypeName name="java.io.FileWriter"/>
 </qualifiedTypeNameHistroy>

@@ -15,6 +15,10 @@ public class Movie {
 	private String title;
 	private String genre;
 	
+	public String getTitle() {
+		return title;
+	}
+	
 	private static final File file = new File("src/movie/movies.txt");
 	
 	public Movie(String title, String genre) {
@@ -37,11 +41,40 @@ public class Movie {
 		
 	}
 	
-	
 	private String toFileString() {
 		return String.format("%d,%s,%s", id,title,genre);
 	}
 
+	public static Movie findAll(String movieId) {
+		Movie movie = null;
+		BufferedReader br = null;
+		String line = null;
+				
+		try {
+			br = new BufferedReader(new FileReader(file));
+			
+			while((line=br.readLine()) != null) {
+				String[] temp = line.split(",");
+				if(movieId.equals(temp[0])) {
+					movie = new Movie(Long.parseLong(temp[0]), temp[1], temp[2]);
+					break;
+				}
+			}
+			
+		} catch (Exception e) {
+			e.printStackTrace();
+		}finally {
+			try {
+				br.close();
+			} catch (IOException e) {
+				e.printStackTrace();
+			}
+		}
+		
+		
+		return movie;
+	}
+	
 	public static ArrayList<Movie> findAll() throws IOException{
 		
 		ArrayList<Movie> movies = new ArrayList<Movie>();
@@ -74,5 +107,33 @@ public class Movie {
 	public String toString() {
 		return String.format("[%d] : %s(%s)", id, title, genre);
 	}
-	
+
+	public static void delete(String movieId) {
+		
+		BufferedReader br = null;
+		String text = "";
+		String line = "";
+		
+		try {
+			br = new BufferedReader(new FileReader(file));
+			
+			while((line=br.readLine()) != null) {
+				String[] temp = line.split(",");
+				if(movieId.equals(temp[0])) {
+					continue;
+				}
+				text += line + "\n";
+			}
+			br.close();
+			
+			FileWriter fw = new FileWriter(file);
+			fw.write(text);
+			
+			fw.close();
+		} catch (Exception e) {
+			e.printStackTrace();
+		}
+	}
+
+
 }
