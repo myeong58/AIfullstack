@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="emp.Employee"/>
-    <fullyQualifiedTypeName name="java.lang.NullPointerException"/>
     <fullyQualifiedTypeName name="java.lang.ArithmeticException"/>
-    <fullyQualifiedTypeName name="java.lang.Exception"/>
     <fullyQualifiedTypeName name="java.lang.Override"/>
-    <fullyQualifiedTypeName name="java.lang.Readable"/>
     <fullyQualifiedTypeName name="연습문제.Rentable"/>
     <fullyQualifiedTypeName name="연습문제.SaleTV"/>
     <fullyQualifiedTypeName name="연습문제.RentalTV"/>
@@ -31,7 +27,6 @@
     <fullyQualifiedTypeName name="java.util.Iterator"/>
     <fullyQualifiedTypeName name="java.util.HashMap"/>
     <fullyQualifiedTypeName name="java.security.KeyStore.Entry"/>
-    <fullyQualifiedTypeName name="java.util.Set"/>
     <fullyQualifiedTypeName name="java.util.HashSet"/>
     <fullyQualifiedTypeName name="collection.Product"/>
     <fullyQualifiedTypeName name="ex01.Printable"/>
@@ -52,12 +47,17 @@
     <fullyQualifiedTypeName name="java.awt.event.AdjustmentEvent"/>
     <fullyQualifiedTypeName name="java.io.File"/>
     <fullyQualifiedTypeName name="java.io.FileNotFoundException"/>
-    <fullyQualifiedTypeName name="movie.Movie"/>
     <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="java.lang.InstantiationError"/>
+    <fullyQualifiedTypeName name="java.time.Instant"/>
+    <fullyQualifiedTypeName name="movie.Movie"/>
     <fullyQualifiedTypeName name="java.util.ArrayList"/>
     <fullyQualifiedTypeName name="java.io.BufferedReader"/>
     <fullyQualifiedTypeName name="java.io.FileReader"/>
-    <fullyQualifiedTypeName name="java.lang.InstantiationError"/>
-    <fullyQualifiedTypeName name="java.time.Instant"/>
+    <fullyQualifiedTypeName name="java.io.IOException"/>
+    <fullyQualifiedTypeName name="java.lang.Exception"/>
+    <fullyQualifiedTypeName name="java.lang.Readable"/>
+    <fullyQualifiedTypeName name="movie.Reservation"/>
     <fullyQualifiedTypeName name="java.io.FileWriter"/>
+    <fullyQualifiedTypeName name="java.util.Set"/>
 </qualifiedTypeNameHistroy>

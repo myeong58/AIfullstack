@@ -67,6 +67,7 @@ public class MainMenu extends AbstractMenu{
 			
 			Seats seats = new Seats(reservations);
 			
+			
 			seats.show();// 에약 좌석 및 빈 좌석 확인
 			
 			System.out.print("좌석을 선택하세요(예: E-5): ");
