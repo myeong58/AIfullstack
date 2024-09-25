@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>HTML, CSS and JavaScript demo</title>
+    <link type="text/css" rel="stylesheet" href="style.css" /> 
+</head>
+
+<body>
+
+    <div class="color">
+        <p class="name">color</p> 
+        <button onclick="changeColor()">change color</button>
+    </div>
+
+    <br>
+
+    <div class="pop">
+        <p class="name">name</p> 
+        <input type="text" id="name"> <br>
+        <button onclick="popup()">pop</button>
+    </div>
+
+    <br>
+
+    <div class="img">
+        <p class="name">image</p> 
+        <input type="file" id="img" accept="image/*" > <br>
+        <div class="img_pre">
+            <img id="imgPreview" src="" alt="img preview" style="display: none;">
+        </div>
+        <button onclick="reset()">reset</button>
+    </div>
+
+
+    
+</body>
+
+    <script type="text/javascript" src="script.js"></script>
+</html>

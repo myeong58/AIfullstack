@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>연습문제</title>
+</head>
+<body>
+    고객명: <input type="text"> <br>
+    전화번호: <input type="text"> <br>
+    E-mail: <input type="text"> <br>
+
+    피자선택: 
+    <select name="pizza">
+        <option value="select">피자를 선택하세요.</option>
+        <option value="불고기">불고기 피자</option>
+        <option value="페퍼로니">페퍼로니 피자</option>
+        <option value="비건">비건 피자</option>
+    </select>
+
+    <fieldset>
+        <legend>피자 사이즈</legend>
+        <input type="radio" name="small"> Small <br><br>
+        <input type="radio" name="medium"> Medium <br><br>
+        <input type="radio" name="large"> Large <br><br>
+    </fieldset>
+
+    <fieldset>
+        <legend>토핑 선택</legend>
+        <input type="checkbox" name="베이컨"> 베이컨 <br><br>
+        <input type="checkbox" name="치즈"> 치즈 <br><br>
+        <input type="checkbox" name="양파"> 양파 <br><br>
+        <input type="checkbox" name="버섯"> 버섯 <br><br>
+    </fieldset>
+    <br>
+
+    희망배송시간: 
+    <input type="time"><br>
+
+    배송시 요청사항:
+    <textarea name="요청사항" rows="4"></textarea> <br>
+
+    <input type="submit" value="주문하기"  >
+
+</body>
+</html>

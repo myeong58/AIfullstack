@@ -1,0 +1,58 @@
+@charset "utf-8";
+
+/* 헤더 시작 */
+.header {
+    width: 100%; height: 180px;
+    position: fixed;
+    top: 0; left: 0;
+    background: #fff;
+    z-index: 9999;
+    border-bottom: 1px solid #eee;
+}
+
+/* 헤더 상단 부분 */
+
+.header_top{
+    width: 1275px; height: 143px;
+    margin: 0 auto;
+    position: relative;
+    display: flex;
+    justify-content: space-between;
+    padding: 40px 0 51px;
+}
+
+.logo{
+    width: 180px; height: 25px;
+    margin: 25px 0 0 0 ;
+}
+
+.logo > a >img {
+    width: 100%;
+}
+
+.mall_switch > ul{
+    position: absolute;
+    top: 54px; left: 224px;
+    display: flex;
+    gap: 24px;
+}
+
+.link_modern, .link_butter {
+    color: #9e9e9f;
+    font-size: 20px;
+    position: relative;
+}
+
+.link_modern::after{
+    width: 1px; height: 19px;
+    content: "";
+    display: inline-block;
+    background: #999;
+    position: absolute;
+    top: 2px; left: 61px;
+}
+
+.on{
+    font-weight: 600;
+    color: #2fb8bd;
+}
